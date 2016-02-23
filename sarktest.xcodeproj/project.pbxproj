@@ -398,6 +398,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = sarktest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lorenzo.sarktest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -409,6 +410,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = sarktest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lorenzo.sarktest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -482,6 +484,7 @@
 				72CA1FAF1C747EE700CFEE2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		72CA1FB01C747EE700CFEE2E /* Build configuration list for PBXNativeTarget "sarktestTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +493,7 @@
 				72CA1FB21C747EE700CFEE2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		72CA1FB31C747EE700CFEE2E /* Build configuration list for PBXNativeTarget "sarktestUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +502,7 @@
 				72CA1FB51C747EE700CFEE2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
